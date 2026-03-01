@@ -1,2 +1,2 @@
-# joanda-labs-analise-exploratoria
-Scripts em R para análise de dados quantitativos
+# joanda-labs-analise-exploratoria-de-dados-quantitativos
+Scripts em R 
