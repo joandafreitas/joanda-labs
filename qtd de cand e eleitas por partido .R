@@ -45,3 +45,4 @@ ggplot(dados_long, aes(x = reorder(partido, -quantidade), y = quantidade, color 
     legend.text = element_text(size = 10, face = "plain")
   ) +
   ylim(min(dados_long$quantidade)*0.8, max(dados_long$quantidade) * 1.3)
+
